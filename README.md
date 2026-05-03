@@ -21,8 +21,7 @@ This repository contains **structured notes, code examples, and resources** for 
 ## How to Use This Repo  
 ### 1. Clone the Repository  
 ```bash  
-git clone https://github.com/your-username/computer-graphics-notes.git  
-cd computer-graphics-notes  
+git clone https://github.com/kushalprasadjoshi-bachelor/cmp234-computer-graphics.git
 ```  
 
 ### 2. Setting Up `graphics.h` in VS Code  
